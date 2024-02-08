@@ -1,0 +1,1 @@
+Programy oraz zbiory danych wykorzystane przy tworzeniu pracy magisterskiej "Projekt modelu systemu informatycznego opartego na sztucznej inteligencji do prognozowania wydajności produkcji energii z użyciem odnawialnych źródeł energii"
